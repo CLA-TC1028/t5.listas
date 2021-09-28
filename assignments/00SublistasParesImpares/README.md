@@ -33,12 +33,12 @@ La palabra PARES en mayúscula en un renglón y posteriormente el despliegue la 
 ## Ejemplos de ejecución del programa
 ### Entrada
 ```
->>> 2
->>> 4
->>> 1
->>> 8
->>> 5
->>> *
+2
+4
+1
+8
+5
+*
 ```
 ### Salida
 ```
@@ -49,7 +49,7 @@ IMPARES
 ```
 ### Entrada
 ```
->>> *
+*
 ```
 ### Salida
 ```
